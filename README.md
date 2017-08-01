@@ -2,7 +2,8 @@
 This is full version of Codeblocks-16.01 with Simplecpp library support. You can create simplecpp project and can build it seperately.
 
 
-# Find Source code at following link,
+# Find Source code at following link,<br>
+https://drive.google.com/open?id=0Bzr4UMGyeoRodmREYTJFQkg2Y3c
 
 
 # Installation
@@ -18,7 +19,7 @@ This is simple bash file written to install dependancies and to give permission 
 INSTALL.sh also contain the command to run wxWidgets-3.0.deb and simpleblocks.deb.
 
 # Versions
-Codeblocks-16.01
+Codeblocks-16.01<br>
 wxWidgets-3.0
 
 ## Enjoy coding with SimpleCpp
