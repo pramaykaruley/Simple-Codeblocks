@@ -7,7 +7,7 @@ https://drive.google.com/open?id=0Bzr4UMGyeoRodmREYTJFQkg2Y3c
 
 
 # Installation
-1. Download the codeblocks.tar.gz .
+1. Download the simple-codeblocks.tar.gz .
 2. Extract it in your machine (say at 'location').
 3. Open terminal and change your directory to /location/codeblocks .
 4. run bash INSTALL.sh
