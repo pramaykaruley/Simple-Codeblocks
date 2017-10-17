@@ -3,7 +3,7 @@ This is full version of Codeblocks-16.01 with Simplecpp library support. You can
 
 
 # Find Source code at following link,<br>
-https://drive.google.com/open?id=0Bzr4UMGyeoRodmREYTJFQkg2Y3c
+https://drive.google.com/drive/folders/0Bzr4UMGyeoRocnRYUEhwdHo4Nnc?usp=sharing
 
 
 # Installation
